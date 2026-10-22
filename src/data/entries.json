@@ -1,0 +1,782 @@
+{
+  "c": {
+    "id": "c",
+    "wordVi": "c",
+    "meaningVi": "Chữ cái c, ghi âm cờ trong bảng chữ cái tiếng Việt.",
+    "meaningsEn": [
+      {
+        "meaning": "C",
+        "ipa": "/siː/",
+        "partOfSpeech": "Chữ cái"
+      }
+    ],
+    "ipa": "/kəː˧˧/",
+    "partOfSpeech": "Chữ cái",
+    "audioVi": "/audio/vi/c.mp3",
+    "audioEn": "/audio/en/us/c.mp3",
+    "sourcePages": [
+      1
+    ],
+    "reviewStatus": "verified"
+  },
+  "ca_nuoc": {
+    "id": "ca_nuoc",
+    "wordVi": "ca",
+    "meaningVi": "Cái ca (cốc) có quai cầm dùng để đựng nước, uống nước sạch hàng ngày.",
+    "meaningsEn": [
+      {
+        "meaning": "mug / cup",
+        "ipa": "/mʌɡ/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/kaː˧˧/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/ca_nuoc.mp3",
+    "audioEn": "/audio/en/us/ca_nuoc.mp3",
+    "sourcePages": [
+      1
+    ],
+    "reviewStatus": "verified"
+  },
+  "ca_tim": {
+    "id": "ca_tim",
+    "wordVi": "cà",
+    "meaningVi": "Quả cà, một loại rau củ quen thuộc có màu tím hoặc xanh, dùng chế biến món ăn ngon.",
+    "meaningsEn": [
+      {
+        "meaning": "eggplant / aubergine",
+        "ipa": "/ˈeɡplænt/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/kaː˨˩/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/ca_tim.mp3",
+    "audioEn": "/audio/en/us/ca_tim.mp3",
+    "sourcePages": [
+      1
+    ],
+    "reviewStatus": "verified"
+  },
+  "ca": {
+    "id": "ca",
+    "wordVi": "cá",
+    "meaningVi": "Con cá, loài động vật có vây, thở bằng mang, bơi lội dưới nước.",
+    "meaningsEn": [
+      {
+        "meaning": "fish",
+        "ipa": "/fɪʃ/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/kaː˧˦/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/ca.mp3",
+    "audioEn": "/audio/en/us/ca.mp3",
+    "sourcePages": [
+      1
+    ],
+    "reviewStatus": "verified"
+  },
+  "a_ca": {
+    "id": "a_ca",
+    "wordVi": "A, cá.",
+    "meaningVi": "Tiếng reo vui tươi của bạn nhỏ khi bất ngờ phát hiện thấy đàn cá bơi lội dưới hồ nước.",
+    "meaningsEn": [
+      {
+        "meaning": "Wow, fishes!",
+        "ipa": "/waʊ ˈfɪʃɪz/",
+        "partOfSpeech": "exclamation"
+      }
+    ],
+    "ipa": "/aː˧˧ kaː˧˦/",
+    "partOfSpeech": "Câu cảm thán",
+    "audioVi": "/audio/vi/a_ca.mp3",
+    "audioEn": "/audio/en/us/a_ca.mp3",
+    "sourcePages": [
+      1
+    ],
+    "reviewStatus": "verified"
+  },
+  "b3_thoai_1": {
+    "id": "b3_thoai_1",
+    "wordVi": "Chào buổi sáng (Good morning)",
+    "meaningVi": "Lời chào buổi sáng lịch sự, vui tươi.",
+    "meaningsEn": [
+      {
+        "meaning": "Good morning",
+        "ipa": "/ɡʊd ˈmɔːrnɪŋ/",
+        "partOfSpeech": "Chào hỏi"
+      }
+    ],
+    "ipa": "/tɕaːw˨˩ ɓwəj˧˩ saːŋ˧˦/",
+    "partOfSpeech": "Chào hỏi",
+    "audioVi": "/audio/vi/b3_thoai_1.mp3",
+    "audioEn": "/audio/en/us/b3_thoai_1.mp3",
+    "sourcePages": [
+      1
+    ],
+    "reviewStatus": "verified"
+  },
+  "b3_thoai_2": {
+    "id": "b3_thoai_2",
+    "wordVi": "Xin chào (Hi)",
+    "meaningVi": "Lời chào thân thiện, vui vẻ khi gặp nhau.",
+    "meaningsEn": [
+      {
+        "meaning": "Hi",
+        "ipa": "/haɪ/",
+        "partOfSpeech": "Chào hỏi"
+      }
+    ],
+    "ipa": "/siɲ˧˧ tɕaːw˨˩/",
+    "partOfSpeech": "Chào hỏi",
+    "audioVi": "/audio/vi/b3_thoai_2.mp3",
+    "audioEn": "/audio/en/us/b3_thoai_2.mp3",
+    "sourcePages": [
+      1
+    ],
+    "reviewStatus": "verified"
+  },
+  "con_bo": {
+    "id": "con_bo",
+    "wordVi": "bò",
+    "meaningVi": "Con bò, loài động vật bốn chân nuôi lấy sữa và kéo cày, thích ăn cỏ xanh non.",
+    "meaningsEn": [
+      {
+        "meaning": "cow / ox",
+        "ipa": "/kaʊ/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/ɓɔː˨˩/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/con_bo.mp3",
+    "audioEn": "/audio/en/us/con_bo.mp3",
+    "sourcePages": [
+      2
+    ],
+    "reviewStatus": "verified"
+  },
+  "con_co": {
+    "id": "con_co",
+    "wordVi": "cò",
+    "meaningVi": "Con cò trắng có mỏ nhọn và chân dài, thường kiếm ăn ở đồng ruộng bờ ao thôn quê.",
+    "meaningsEn": [
+      {
+        "meaning": "egret / stork",
+        "ipa": "/ˈiːɡrət/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/kɔː˨˩/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/con_co.mp3",
+    "audioEn": "/audio/en/us/con_co.mp3",
+    "sourcePages": [
+      2
+    ],
+    "reviewStatus": "verified"
+  },
+  "co": {
+    "id": "co",
+    "wordVi": "cỏ",
+    "meaningVi": "Cỏ, loài thực vật thân mềm xanh tươi phủ trên mặt đất, thức ăn của bò và bê con.",
+    "meaningsEn": [
+      {
+        "meaning": "grass",
+        "ipa": "/ɡræs/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/kɔː˧˩/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/co.mp3",
+    "audioEn": "/audio/en/us/co.mp3",
+    "sourcePages": [
+      2
+    ],
+    "reviewStatus": "verified"
+  },
+  "be_co_co": {
+    "id": "be_co_co",
+    "wordVi": "Bê có cỏ.",
+    "meaningVi": "Chú bê con được nuôi trong chuồng và có cỏ tươi để ăn no.",
+    "meaningsEn": [
+      {
+        "meaning": "The calf has grass.",
+        "ipa": "/ðə kæf hæz ɡræs/",
+        "partOfSpeech": "sentence"
+      }
+    ],
+    "ipa": "/ɓeː˧˧ kɔː˧˦ kɔː˧˩/",
+    "partOfSpeech": "Câu đọc",
+    "audioVi": "/audio/vi/be_co_co.mp3",
+    "audioEn": "/audio/en/us/be_co_co.mp3",
+    "sourcePages": [
+      2
+    ],
+    "reviewStatus": "verified"
+  },
+  "b6_thoai_1": {
+    "id": "b6_thoai_1",
+    "wordVi": "Con chào mẹ ạ! (Hi, mom)",
+    "meaningVi": "Lời chào đón đầy tình cảm của bạn nhỏ khi tan học về nhà gặp mẹ ở cửa.",
+    "meaningsEn": [
+      {
+        "meaning": "Hi, mom (Greeting mom after school)",
+        "ipa": "/haɪ mɑːm/",
+        "partOfSpeech": "dialogue"
+      }
+    ],
+    "ipa": "/kɔn˧˧ tɕaːw˨˩ mɛː˧˨ aː˧˨/",
+    "partOfSpeech": "Hội thoại",
+    "audioVi": "/audio/vi/b6_thoai_1.mp3",
+    "audioEn": "/audio/en/us/b6_thoai_1.mp3",
+    "sourcePages": [
+      2
+    ],
+    "reviewStatus": "verified"
+  },
+  "b6_thoai_2": {
+    "id": "b6_thoai_2",
+    "wordVi": "Cháu chào ông, cháu chào bà ạ! (Good afternoon)",
+    "meaningVi": "Bạn nhỏ khoanh tay lễ phép chào ông bà đang đọc báo và thư giãn trong phòng khách.",
+    "meaningsEn": [
+      {
+        "meaning": "Good afternoon, Grandmother and Grandfather",
+        "ipa": "/ɡʊd ˌæftərˈnuːn ˈɡrændˌmʌðər ænd ˈɡrændˌfɑːðər/",
+        "partOfSpeech": "dialogue"
+      }
+    ],
+    "ipa": "/tɕaʊ˧˦ tɕaːw˨˩ ăwŋ˧˧ tɕaʊ˧˦ tɕaːw˨˩ ɓaː˨˩ aː˧˨/",
+    "partOfSpeech": "Hội thoại",
+    "audioVi": "/audio/vi/b6_thoai_2.mp3",
+    "audioEn": "/audio/en/us/b6_thoai_2.mp3",
+    "sourcePages": [
+      2
+    ],
+    "reviewStatus": "verified"
+  },
+  "dan_kien_title": {
+    "id": "dan_kien_title",
+    "wordVi": "Đàn kiến con ngoan ngoãn",
+    "meaningVi": "Câu chuyện cảm động về đàn kiến con đoàn kết, hiếu thảo và biết tương trợ bà kiến già đau ốm.",
+    "meaningsEn": [
+      {
+        "meaning": "The Well-Behaved Little Ants",
+        "ipa": "/ðə wel bɪˈheɪvd ˈlɪtl ænts/",
+        "partOfSpeech": "story title"
+      }
+    ],
+    "ipa": "/ɗaːn˨˩ kiən˧˦ kɔn˧˧ nwaːn˧˧ nwaːn˧˦/",
+    "partOfSpeech": "Tên câu chuyện",
+    "audioVi": "/audio/vi/dan_kien_title.mp3",
+    "audioEn": "/audio/en/us/dan_kien_title.mp3",
+    "sourcePages": [
+      3
+    ],
+    "reviewStatus": "verified"
+  },
+  "kien_tranh_1": {
+    "id": "kien_tranh_1",
+    "wordVi": "Tranh 1: Tổ bà kiến chật hẹp, ẩm ướt",
+    "meaningVi": "Bà kiến đã già, một mình ở trong cái tổ nhỏ chật hẹp, ẩm ướt. Mấy hôm nay, bà đau ốm cứ rên hừ hừ.",
+    "meaningsEn": [
+      {
+        "meaning": "Old mother ant lived alone in a small, damp nest, groaning with illness.",
+        "ipa": "/oʊld ˈmʌðər ænt lɪvd əˈloʊn ɪn ə smɔːl dæmp nest/",
+        "partOfSpeech": "story section"
+      }
+    ],
+    "ipa": "/ɓaː˨˩ kiən˧˦ ɗaː˧˦ zaː˨˩/",
+    "partOfSpeech": "Kể chuyện (Tranh 1)",
+    "audioVi": "/audio/vi/kien_tranh_1.mp3",
+    "audioEn": "/audio/en/us/kien_tranh_1.mp3",
+    "sourcePages": [
+      3
+    ],
+    "reviewStatus": "verified"
+  },
+  "kien_tranh_2": {
+    "id": "kien_tranh_2",
+    "wordVi": "Tranh 2: Đàn kiến tha chiếc lá đa vàng",
+    "meaningVi": "Đàn kiến con đi ngang qua thấy vậy bèn giúp đỡ bà. Chúng tha về một chiếc lá đa vàng mới rụng, dìu bà ngồi trên đó rồi khiêng đi tắm nắng.",
+    "meaningsEn": [
+      {
+        "meaning": "The little ants carried a yellow banyan leaf to help her sit and sunbathe.",
+        "ipa": "/ðə ˈlɪtl ænts brɔːt ə ˈbænjən liːf/",
+        "partOfSpeech": "story section"
+      }
+    ],
+    "ipa": "/ɗaːn˨˩ kiən˧˦ kɔn˧˧ ɗiː˧˧ ŋaːŋ˧˧ kwaː˧˧/",
+    "partOfSpeech": "Kể chuyện (Tranh 2)",
+    "audioVi": "/audio/vi/kien_tranh_2.mp3",
+    "audioEn": "/audio/en/us/kien_tranh_2.mp3",
+    "sourcePages": [
+      3
+    ],
+    "reviewStatus": "verified"
+  },
+  "kien_tranh_3": {
+    "id": "kien_tranh_3",
+    "wordVi": "Tranh 3: Đưa bà kiến lên ụ đất cao ráo",
+    "meaningVi": "Đàn kiến con chia nhau đi tìm nhà mới cho bà. Cả đàn xúm vào khiêng chiếc lá, đưa bà kiến lên một ụ đất cao ráo, thoáng mát.",
+    "meaningsEn": [
+      {
+        "meaning": "The ants searched for a new home and carried her up to a dry, sunny hillock.",
+        "ipa": "/ðə ænts ˈkærid hɜːr tuː ə braɪt ˈbriːzi maʊnd/",
+        "partOfSpeech": "story section"
+      }
+    ],
+    "ipa": "/tɕuŋ˧˦ tɕiə˧˧ ɲaʊ˧˧ ɗiː˧˧ tiəm˨˩ ɲaː˨˩ məːj˧˦/",
+    "partOfSpeech": "Kể chuyện (Tranh 3)",
+    "audioVi": "/audio/vi/kien_tranh_3.mp3",
+    "audioEn": "/audio/en/us/kien_tranh_3.mp3",
+    "sourcePages": [
+      3
+    ],
+    "reviewStatus": "verified"
+  },
+  "kien_tranh_4": {
+    "id": "kien_tranh_4",
+    "wordVi": "Tranh 4: Bà kiến sung sướng cảm ơn",
+    "meaningVi": "Bà kiến được ở nhà mới vui sướng nói: “Nhờ các cháu giúp đỡ, bà được tắm nắng lại ở nhà mới cao ráo, đẹp đẽ. Bà cảm ơn các cháu thật nhiều!”.",
+    "meaningsEn": [
+      {
+        "meaning": "Old mother ant happily thanked the kind little ants in her new sunny home.",
+        "ipa": "/oʊld ˈmʌðər ænt ˈhæpɪli θæŋkt ðə kaɪnd ænts/",
+        "partOfSpeech": "story section"
+      }
+    ],
+    "ipa": "/ɓaː˨˩ kiən˧˦ ɗɨək˧˨ əː˧˩ ɲaː˨˩ məːj˧˦/",
+    "partOfSpeech": "Kể chuyện (Tranh 4)",
+    "audioVi": "/audio/vi/kien_tranh_4.mp3",
+    "audioEn": "/audio/en/us/kien_tranh_4.mp3",
+    "sourcePages": [
+      3
+    ],
+    "reviewStatus": "verified"
+  },
+  "bo_co": {
+    "id": "bo_co",
+    "wordVi": "bó cỏ",
+    "meaningVi": "Một bó cỏ tươi được gom và buộc lại gọn gàng để cho gia súc ăn.",
+    "meaningsEn": [
+      {
+        "meaning": "bundle of grass",
+        "ipa": "/ˈbʌndl əv ɡræs/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/ɓɔː˧˦ kɔː˧˩/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/bo_co.mp3",
+    "audioEn": "/audio/en/us/bo_co.mp3",
+    "sourcePages": [
+      3
+    ],
+    "reviewStatus": "verified"
+  },
+  "ca_co": {
+    "id": "ca_co",
+    "wordVi": "cá cờ",
+    "meaningVi": "Loài cá nhỏ bơi nhanh, có vây sặc sỡ giống ngọn cờ.",
+    "meaningsEn": [
+      {
+        "meaning": "fighting fish / sailfish",
+        "ipa": "/ˈfaɪtɪŋ fɪʃ/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/kaː˧˦ kəː˨˩/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/ca_co.mp3",
+    "audioEn": "/audio/en/us/ca_co.mp3",
+    "sourcePages": [
+      3
+    ],
+    "reviewStatus": "verified"
+  },
+  "bo_de": {
+    "id": "bo_de",
+    "wordVi": "bờ đê",
+    "meaningVi": "Đường bờ đê đắp bằng đất cao dọc theo dòng sông để ngăn nước lũ.",
+    "meaningsEn": [
+      {
+        "meaning": "dike / embankment",
+        "ipa": "/daɪk/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/ɓəː˨˩ ɗeː˧˧/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/bo_de.mp3",
+    "audioEn": "/audio/en/us/bo_de.mp3",
+    "sourcePages": [
+      3
+    ],
+    "reviewStatus": "verified"
+  },
+  "do_ba": {
+    "id": "do_ba",
+    "wordVi": "đỡ bà",
+    "meaningVi": "Hành động lễ phép dìu đỡ bà bước đi vững vàng, an toàn.",
+    "meaningsEn": [
+      {
+        "meaning": "help grandmother / support grandmother",
+        "ipa": "/help ˈɡrændˌmʌðər/",
+        "partOfSpeech": "verb phrase"
+      }
+    ],
+    "ipa": "/ɗəː˧˦ ɓaː˨˩/",
+    "partOfSpeech": "Cụm động từ",
+    "audioVi": "/audio/vi/do_ba.mp3",
+    "audioEn": "/audio/en/us/do_ba.mp3",
+    "sourcePages": [
+      3
+    ],
+    "reviewStatus": "verified"
+  },
+  "co_do": {
+    "id": "co_do",
+    "wordVi": "cờ đỏ",
+    "meaningVi": "Lá cờ đỏ thắm mang biểu tượng đất nước hoặc trường lớp rực rỡ.",
+    "meaningsEn": [
+      {
+        "meaning": "red flag",
+        "ipa": "/red flæɡ/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/kəː˨˩ ɗɔː˧˩/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/co_do.mp3",
+    "audioEn": "/audio/en/us/co_do.mp3",
+    "sourcePages": [
+      3
+    ],
+    "reviewStatus": "verified"
+  },
+  "do_do": {
+    "id": "do_do",
+    "wordVi": "đỗ đỏ",
+    "meaningVi": "Hạt đậu đỏ (đỗ đỏ) bổ dưỡng, dùng nấu xôi hoặc nấu chè thanh mát.",
+    "meaningsEn": [
+      {
+        "meaning": "red beans / adzuki beans",
+        "ipa": "/red biːnz/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/ɗoː˧˦ ɗɔː˧˩/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/do_do.mp3",
+    "audioEn": "/audio/en/us/do_do.mp3",
+    "sourcePages": [
+      3
+    ],
+    "reviewStatus": "verified"
+  },
+  "do_be": {
+    "id": "do_be",
+    "wordVi": "đỡ bé",
+    "meaningVi": "Nâng đỡ và dìu dắt em bé chập chững những bước đi đầu đời.",
+    "meaningsEn": [
+      {
+        "meaning": "support the baby",
+        "ipa": "/səˈpɔːrt ðə ˈbeɪbi/",
+        "partOfSpeech": "verb phrase"
+      }
+    ],
+    "ipa": "/ɗəː˧˦ ɓɛː˧˦/",
+    "partOfSpeech": "Cụm động từ",
+    "audioVi": "/audio/vi/do_be.mp3",
+    "audioEn": "/audio/en/us/do_be.mp3",
+    "sourcePages": [
+      3
+    ],
+    "reviewStatus": "verified"
+  },
+  "cau_bo_de_co_de": {
+    "id": "cau_bo_de_co_de",
+    "wordVi": "Bờ đê có dế.",
+    "meaningVi": "Trên dải cỏ triền đê có những chú dế mèn đào hang sinh sống.",
+    "meaningsEn": [
+      {
+        "meaning": "There are crickets on the dike.",
+        "ipa": "/ðer ɑːr ˈkrɪkɪts ɒn ðə daɪk/",
+        "partOfSpeech": "sentence"
+      }
+    ],
+    "ipa": "/ɓəː˨˩ ɗeː˧˧ kɔː˧˦ zeː˧˦/",
+    "partOfSpeech": "Câu đọc",
+    "audioVi": "/audio/vi/cau_bo_de_co_de.mp3",
+    "audioEn": "/audio/en/us/cau_bo_de_co_de.mp3",
+    "sourcePages": [
+      3
+    ],
+    "reviewStatus": "verified"
+  },
+  "cau_ba_co_do_do": {
+    "id": "cau_ba_co_do_do",
+    "wordVi": "Bà có đỗ đỏ.",
+    "meaningVi": "Bà có những hạt đỗ đỏ thơm ngon để chuẩn bị nấu chè cho cả nhà.",
+    "meaningsEn": [
+      {
+        "meaning": "Grandmother has red beans.",
+        "ipa": "/ˈɡrændˌmʌðər hæz red biːnz/",
+        "partOfSpeech": "sentence"
+      }
+    ],
+    "ipa": "/ɓaː˨˩ kɔː˧˦ ɗoː˧˦ ɗɔː˧˩/",
+    "partOfSpeech": "Câu đọc",
+    "audioVi": "/audio/vi/cau_ba_co_do_do.mp3",
+    "audioEn": "/audio/en/us/cau_ba_co_do_do.mp3",
+    "sourcePages": [
+      3
+    ],
+    "reviewStatus": "verified"
+  },
+  "ca_me": {
+    "id": "ca_me",
+    "wordVi": "cá mè",
+    "meaningVi": "Loài cá nước ngọt vảy trắng óng ánh, sống ở ao hồ sông ngòi.",
+    "meaningsEn": [
+      {
+        "meaning": "carp / silver carp",
+        "ipa": "/kɑːrp/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/kaː˧˦ mɛː˨˩/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/ca_me.mp3",
+    "audioEn": "/audio/en/us/ca_me.mp3",
+    "sourcePages": [
+      4
+    ],
+    "reviewStatus": "verified"
+  },
+  "la_me": {
+    "id": "la_me",
+    "wordVi": "lá me",
+    "meaningVi": "Lá của cây me, những chiếc lá nhỏ xinh có vị chua thanh mát.",
+    "meaningsEn": [
+      {
+        "meaning": "tamarind leaf",
+        "ipa": "/ˈtæmərɪnd liːf/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/laː˧˦ mɛː˧˧/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/la_me.mp3",
+    "audioEn": "/audio/en/us/la_me.mp3",
+    "sourcePages": [
+      4
+    ],
+    "reviewStatus": "verified"
+  },
+  "no_do": {
+    "id": "no_do",
+    "wordVi": "nơ đỏ",
+    "meaningVi": "Chiếc nơ màu đỏ thắm xinh xắn bé dùng để cài lên mái tóc.",
+    "meaningsEn": [
+      {
+        "meaning": "red bow / red ribbon",
+        "ipa": "/red boʊ/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/nəː˧˧ ɗɔː˧˩/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/no_do.mp3",
+    "audioEn": "/audio/en/us/no_do.mp3",
+    "sourcePages": [
+      4
+    ],
+    "reviewStatus": "verified"
+  },
+  "ca_no": {
+    "id": "ca_no",
+    "wordVi": "ca nô",
+    "meaningVi": "Chiếc thuyền máy ca nô nhỏ chạy bằng động cơ lướt nhanh trên mặt nước.",
+    "meaningsEn": [
+      {
+        "meaning": "motorboat / canoe",
+        "ipa": "/ˈmoʊtərbəʊt/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/kaː˧˧ noː˧˧/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/ca_no.mp3",
+    "audioEn": "/audio/en/us/ca_no.mp3",
+    "sourcePages": [
+      4
+    ],
+    "reviewStatus": "verified"
+  },
+  "bo_me_cho_ha_di_ca_no": {
+    "id": "bo_me_cho_ha_di_ca_no",
+    "wordVi": "Bố mẹ cho Hà đi ca nô.",
+    "meaningVi": "Bé Hà được bố và mẹ dắt đi trải nghiệm ngồi xuồng ca nô lướt sóng vui vẻ.",
+    "meaningsEn": [
+      {
+        "meaning": "Parents let Ha ride the motorboat.",
+        "ipa": "/ˈperənts let hɑː raɪd ðə ˈmoʊtərbəʊt/",
+        "partOfSpeech": "sentence"
+      }
+    ],
+    "ipa": "/ɓoː˧˦ mɛː˧˨ tɕɔː˧˧ haː˨˩ ɗiː˧˧ kaː˧˧ noː˧˧/",
+    "partOfSpeech": "Câu đọc",
+    "audioVi": "/audio/vi/bo_me_cho_ha_di_ca_no.mp3",
+    "audioEn": "/audio/en/us/bo_me_cho_ha_di_ca_no.mp3",
+    "sourcePages": [
+      4
+    ],
+    "reviewStatus": "verified"
+  },
+  "b16_thoai_gioi_thieu": {
+    "id": "b16_thoai_gioi_thieu",
+    "wordVi": "Giới thiệu bản thân (Hello. My name is Nam...)",
+    "meaningVi": "Cháu chào chú công an ạ! Cháu tên là Nam, học sinh lớp 1B8 trường Tiểu học Long Biên.",
+    "meaningsEn": [
+      {
+        "meaning": "Hello. My name is Nam, and I am a student in class 1B8 at Long Bien Primary School.",
+        "ipa": "/həˈloʊ maɪ neɪm ɪz næm ænd aɪ æm ə ˈstuːdənt ɪn klæs wʌn biː eɪt/",
+        "partOfSpeech": "dialogue"
+      }
+    ],
+    "ipa": "/tɕaʊ˧˦ tɕaːw˨˩ tɕuː˧˦ kəwŋ͡m˧˧ aːn˧˧ aː˧˨/",
+    "partOfSpeech": "Hội thoại",
+    "audioVi": "/audio/vi/b16_thoai_gioi_thieu.mp3",
+    "audioEn": "/audio/en/us/b16_thoai_gioi_thieu.mp3",
+    "sourcePages": [
+      4
+    ],
+    "reviewStatus": "verified"
+  },
+  "y_ta": {
+    "id": "y_ta",
+    "wordVi": "y tá",
+    "meaningVi": "Cô y tá mặc áo trắng tận tụy chăm sóc bệnh nhân và người già tại cơ sở y tế.",
+    "meaningsEn": [
+      {
+        "meaning": "nurse",
+        "ipa": "/nɜːrs/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/iː˧˧ taː˧˦/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/y_ta.mp3",
+    "audioEn": "/audio/en/us/y_ta.mp3",
+    "sourcePages": [
+      5
+    ],
+    "reviewStatus": "verified"
+  },
+  "da_quy": {
+    "id": "da_quy",
+    "wordVi": "dã quỳ",
+    "meaningVi": "Hoa dã quỳ, loài hoa dại cánh vàng rực rỡ nở bừng trên các triền đồi núi cao.",
+    "meaningsEn": [
+      {
+        "meaning": "wild sunflower",
+        "ipa": "/waɪld ˈsʌnˌflaʊər/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/zaː˧˦ kwiː˨˩/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/da_quy.mp3",
+    "audioEn": "/audio/en/us/da_quy.mp3",
+    "sourcePages": [
+      5
+    ],
+    "reviewStatus": "verified"
+  },
+  "da_quy_gem": {
+    "id": "da_quy_gem",
+    "wordVi": "đá quý",
+    "meaningVi": "Những viên đá quý lấp lánh sắc màu rực rỡ và vô cùng quý giá trong thiên nhiên.",
+    "meaningsEn": [
+      {
+        "meaning": "gemstone / precious stone",
+        "ipa": "/ˈdʒemstoʊn/",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "ipa": "/ɗaː˧˦ kwiː˧˦/",
+    "partOfSpeech": "Danh từ",
+    "audioVi": "/audio/vi/da_quy_gem.mp3",
+    "audioEn": "/audio/en/us/da_quy_gem.mp3",
+    "sourcePages": [
+      5
+    ],
+    "reviewStatus": "verified"
+  },
+  "cau_doc_p28": {
+    "id": "cau_doc_p28",
+    "wordVi": "Mẹ và Hà ghé nhà dì Kha. Dì kể cho Hà nghe về bà. Hà chú ý nghe dì kể.",
+    "meaningVi": "Đoạn văn ấm áp kể về chuyến thăm dì Kha của hai mẹ con bé Hà và câu chuyện về người bà thân yêu.",
+    "meaningsEn": [
+      {
+        "meaning": "Mother and Ha stopped by aunt Kha's house. Aunt told Ha about grandmother. Ha listened attentively.",
+        "ipa": "/ˈmʌðər ænd hɑː stɑːpt baɪ ænt kɑːz haʊs/",
+        "partOfSpeech": "reading text"
+      }
+    ],
+    "ipa": "/mɛː˧˨ vaː˨˩ haː˨˩ ɣɛː˧˦ ɲaː˨˩ ziː˨˩ kʰaː˧˧/",
+    "partOfSpeech": "Đoạn đọc",
+    "audioVi": "/audio/vi/cau_doc_p28.mp3",
+    "audioEn": "/audio/en/us/cau_doc_p28.mp3",
+    "sourcePages": [
+      5
+    ],
+    "reviewStatus": "verified"
+  },
+  "b28_thoai_1": {
+    "id": "b28_thoai_1",
+    "wordVi": "Cảm ơn bạn nhé! (Thank you)",
+    "meaningVi": "Lời cảm ơn chân thành của bạn nhỏ khi được bạn che ô đi cùng dưới trời mưa tan trường.",
+    "meaningsEn": [
+      {
+        "meaning": "Thank you (Sharing umbrella under rain)",
+        "ipa": "/ˈθæŋk juː/",
+        "partOfSpeech": "dialogue"
+      }
+    ],
+    "ipa": "/kaːm˧˩ əːn˧˧ ɓaːn˧˨ ɲɛː˧˦/",
+    "partOfSpeech": "Hội thoại",
+    "audioVi": "/audio/vi/b28_thoai_1.mp3",
+    "audioEn": "/audio/en/us/b28_thoai_1.mp3",
+    "sourcePages": [
+      5
+    ],
+    "reviewStatus": "verified"
+  },
+  "b28_thoai_2": {
+    "id": "b28_thoai_2",
+    "wordVi": "Cháu cảm ơn ông bà rất nhiều ạ! (Thank you so much)",
+    "meaningVi": "Bạn nhỏ khoanh hai tay lễ phép nói lời cảm ơn ông bà khi được ông bà chúc mừng và trao quà.",
+    "meaningsEn": [
+      {
+        "meaning": "Thank you so much, Grandmother and Grandfather",
+        "ipa": "/ˈθæŋk juː soʊ mʌtʃ ˈɡrændˌmʌðər ænd ˈɡrændˌfɑːðər/",
+        "partOfSpeech": "dialogue"
+      }
+    ],
+    "ipa": "/tɕaʊ˧˦ kaːm˧˩ əːn˧˧ ăwŋ˧˧ ɓaː˨˩ zət˧˦ ɲiəw˨˩ aː˧˨/",
+    "partOfSpeech": "Hội thoại",
+    "audioVi": "/audio/vi/b28_thoai_2.mp3",
+    "audioEn": "/audio/en/us/b28_thoai_2.mp3",
+    "sourcePages": [
+      5
+    ],
+    "reviewStatus": "verified"
+  }
+}

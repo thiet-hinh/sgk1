@@ -1,0 +1,460 @@
+{
+  "1": {
+    "pageNumber": 1,
+    "image": "/pages/topic_1.png",
+    "overlays": [
+      {
+        "id": "ov_t1_c",
+        "text": "c",
+        "entryId": "c",
+        "left": 24.8,
+        "top": 44.8,
+        "width": 3.2,
+        "height": 4.8,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t1_ca_nuoc",
+        "text": "ca",
+        "entryId": "ca_nuoc",
+        "left": 10.4,
+        "top": 72.2,
+        "width": 5.5,
+        "height": 4.8,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t1_ca_tim",
+        "text": "cà",
+        "entryId": "ca_tim",
+        "left": 22.8,
+        "top": 72.2,
+        "width": 5.5,
+        "height": 4.8,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t1_ca",
+        "text": "cá",
+        "entryId": "ca",
+        "left": 35.4,
+        "top": 72.2,
+        "width": 5.5,
+        "height": 4.8,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t1_a_ca",
+        "text": "A, cá.",
+        "entryId": "a_ca",
+        "left": 63.8,
+        "top": 19.8,
+        "width": 8.8,
+        "height": 5.5,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t1_thoai_1",
+        "text": "Tranh 1: Chào buổi sáng (Good morning)",
+        "entryId": "b3_thoai_1",
+        "left": 56.4,
+        "top": 57.8,
+        "width": 18.6,
+        "height": 37.0
+      },
+      {
+        "id": "ov_t1_thoai_2",
+        "text": "Tranh 2: Xin chào (Hi)",
+        "entryId": "b3_thoai_2",
+        "left": 75.7,
+        "top": 57.8,
+        "width": 18.6,
+        "height": 37.0
+      }
+    ],
+    "vocabWordIds": [
+      "ca_nuoc",
+      "ca_tim",
+      "ca",
+      "c",
+      "a_ca",
+      "b3_thoai_1",
+      "b3_thoai_2"
+    ]
+  },
+  "2": {
+    "pageNumber": 2,
+    "image": "/pages/topic_2.png",
+    "overlays": [
+      {
+        "id": "ov_t2_bo",
+        "text": "bò",
+        "entryId": "con_bo",
+        "left": 11.9,
+        "top": 72.4,
+        "width": 5.8,
+        "height": 5.0,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t2_co_egret",
+        "text": "cò",
+        "entryId": "con_co",
+        "left": 24.1,
+        "top": 72.4,
+        "width": 5.8,
+        "height": 5.0,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t2_co_grass",
+        "text": "cỏ",
+        "entryId": "co",
+        "left": 35.7,
+        "top": 72.4,
+        "width": 5.8,
+        "height": 5.0,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t2_be_co_co",
+        "text": "Bê có cỏ.",
+        "entryId": "be_co_co",
+        "left": 69.4,
+        "top": 42.3,
+        "width": 12.2,
+        "height": 5.2,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t2_thoai_1",
+        "text": "Tranh 1: Con chào mẹ ạ! (Hi, mom)",
+        "entryId": "b6_thoai_1",
+        "left": 56.1,
+        "top": 58.8,
+        "width": 18.9,
+        "height": 36.8
+      },
+      {
+        "id": "ov_t2_thoai_2",
+        "text": "Tranh 2: Cháu chào ông bà ạ! (Good afternoon)",
+        "entryId": "b6_thoai_2",
+        "left": 75.7,
+        "top": 58.8,
+        "width": 18.9,
+        "height": 36.8
+      }
+    ],
+    "vocabWordIds": [
+      "con_bo",
+      "con_co",
+      "co",
+      "be_co_co",
+      "b6_thoai_1",
+      "b6_thoai_2"
+    ]
+  },
+  "3": {
+    "pageNumber": 3,
+    "image": "/pages/topic_3.png",
+    "overlays": [
+      {
+        "id": "ov_t3_title",
+        "text": "Đàn kiến con ngoan ngoãn",
+        "entryId": "dan_kien_title",
+        "left": 62.4,
+        "top": 22.3,
+        "width": 23.8,
+        "height": 4.8,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t3_tranh_1",
+        "text": "Tranh 1: Bà kiến sống ở đâu?",
+        "entryId": "kien_tranh_1",
+        "left": 54.4,
+        "top": 27.8,
+        "width": 19.7,
+        "height": 29.4
+      },
+      {
+        "id": "ov_t3_tranh_2",
+        "text": "Tranh 2: Khiêng bà kiến bằng chiếc lá đa",
+        "entryId": "kien_tranh_2",
+        "left": 74.9,
+        "top": 27.8,
+        "width": 19.7,
+        "height": 29.4
+      },
+      {
+        "id": "ov_t3_tranh_3",
+        "text": "Tranh 3: Đưa bà kiến đến nơi thoáng mát",
+        "entryId": "kien_tranh_3",
+        "left": 54.4,
+        "top": 60.8,
+        "width": 19.7,
+        "height": 29.4
+      },
+      {
+        "id": "ov_t3_tranh_4",
+        "text": "Tranh 4: Được ở nhà mới, bà kiến cảm ơn",
+        "entryId": "kien_tranh_4",
+        "left": 74.9,
+        "top": 60.8,
+        "width": 19.7,
+        "height": 29.4
+      },
+      {
+        "id": "ov_t3_bo_co",
+        "text": "bó cỏ",
+        "entryId": "bo_co",
+        "left": 19.4,
+        "top": 44.8,
+        "width": 6.7,
+        "height": 4.0,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t3_ca_co",
+        "text": "cá cờ",
+        "entryId": "ca_co",
+        "left": 4.9,
+        "top": 51.3,
+        "width": 6.7,
+        "height": 4.0,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t3_bo_de",
+        "text": "bờ đê",
+        "entryId": "bo_de",
+        "left": 25.4,
+        "top": 55.3,
+        "width": 6.7,
+        "height": 4.0,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t3_do_ba",
+        "text": "đỡ bà",
+        "entryId": "do_ba",
+        "left": 36.4,
+        "top": 51.3,
+        "width": 6.7,
+        "height": 4.0,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t3_co_do",
+        "text": "cờ đỏ",
+        "entryId": "co_do",
+        "left": 12.4,
+        "top": 62.3,
+        "width": 6.7,
+        "height": 4.0,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t3_do_do",
+        "text": "đỗ đỏ",
+        "entryId": "do_do",
+        "left": 30.4,
+        "top": 67.8,
+        "width": 6.7,
+        "height": 4.0,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t3_do_be",
+        "text": "đỡ bé",
+        "entryId": "do_be",
+        "left": 14.4,
+        "top": 73.8,
+        "width": 6.7,
+        "height": 4.0,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t3_cau_1",
+        "text": "Bờ đê có dế.",
+        "entryId": "cau_bo_de_co_de",
+        "left": 7.9,
+        "top": 82.3,
+        "width": 13.2,
+        "height": 4.7,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t3_cau_2",
+        "text": "Bà có đỗ đỏ.",
+        "entryId": "cau_ba_co_do_do",
+        "left": 23.4,
+        "top": 82.3,
+        "width": 13.2,
+        "height": 4.7,
+        "isKeyVocab": true
+      }
+    ],
+    "vocabWordIds": [
+      "dan_kien_title",
+      "kien_tranh_1",
+      "kien_tranh_2",
+      "kien_tranh_3",
+      "kien_tranh_4",
+      "bo_co",
+      "ca_co",
+      "bo_de",
+      "do_ba",
+      "co_do",
+      "do_do",
+      "do_be",
+      "cau_bo_de_co_de",
+      "cau_ba_co_do_do"
+    ]
+  },
+  "4": {
+    "pageNumber": 4,
+    "image": "/pages/topic_4.png",
+    "overlays": [
+      {
+        "id": "ov_t4_ca_me",
+        "text": "cá mè",
+        "entryId": "ca_me",
+        "left": 7.9,
+        "top": 72.6,
+        "width": 7.7,
+        "height": 4.4,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t4_la_me",
+        "text": "lá me",
+        "entryId": "la_me",
+        "left": 16.9,
+        "top": 72.6,
+        "width": 7.7,
+        "height": 4.4,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t4_no_do",
+        "text": "nơ đỏ",
+        "entryId": "no_do",
+        "left": 25.9,
+        "top": 72.6,
+        "width": 7.7,
+        "height": 4.4,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t4_ca_no",
+        "text": "ca nô",
+        "entryId": "ca_no",
+        "left": 35.9,
+        "top": 72.6,
+        "width": 7.7,
+        "height": 4.4,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t4_bo_me",
+        "text": "Bố mẹ cho Hà đi ca nô.",
+        "entryId": "bo_me_cho_ha_di_ca_no",
+        "left": 64.4,
+        "top": 35.8,
+        "width": 19.7,
+        "height": 5.0,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t4_thoai_gioi_thieu",
+        "text": "Giới thiệu bản thân (Hello. My name is Nam...)",
+        "entryId": "b16_thoai_gioi_thieu",
+        "left": 53.4,
+        "top": 51.2,
+        "width": 41.8,
+        "height": 41.8
+      }
+    ],
+    "vocabWordIds": [
+      "ca_me",
+      "la_me",
+      "no_do",
+      "ca_no",
+      "bo_me_cho_ha_di_ca_no",
+      "b16_thoai_gioi_thieu"
+    ]
+  },
+  "5": {
+    "pageNumber": 5,
+    "image": "/pages/topic_5.png",
+    "overlays": [
+      {
+        "id": "ov_t5_y_ta",
+        "text": "y tá",
+        "entryId": "y_ta",
+        "left": 11.4,
+        "top": 71.8,
+        "width": 6.7,
+        "height": 4.4,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t5_da_quy",
+        "text": "dã quỳ",
+        "entryId": "da_quy",
+        "left": 23.9,
+        "top": 71.8,
+        "width": 7.7,
+        "height": 4.4,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t5_da_quy_gem",
+        "text": "đá quý",
+        "entryId": "da_quy_gem",
+        "left": 35.7,
+        "top": 71.8,
+        "width": 7.7,
+        "height": 4.4,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t5_cau_doc",
+        "text": "Mẹ và Hà ghé nhà dì Kha. Dì kể cho Hà nghe về bà. Hà chú ý nghe dì kể.",
+        "entryId": "cau_doc_p28",
+        "left": 56.4,
+        "top": 39.8,
+        "width": 40.7,
+        "height": 7.8,
+        "isKeyVocab": true
+      },
+      {
+        "id": "ov_t5_thoai_1",
+        "text": "Tranh 1: Cảm ơn bạn nhé! (Thank you)",
+        "entryId": "b28_thoai_1",
+        "left": 57.4,
+        "top": 58.8,
+        "width": 18.9,
+        "height": 36.8
+      },
+      {
+        "id": "ov_t5_thoai_2",
+        "text": "Tranh 2: Cháu cảm ơn ông bà rất nhiều ạ!",
+        "entryId": "b28_thoai_2",
+        "left": 76.9,
+        "top": 58.8,
+        "width": 18.9,
+        "height": 36.8
+      }
+    ],
+    "vocabWordIds": [
+      "y_ta",
+      "da_quy",
+      "da_quy_gem",
+      "cau_doc_p28",
+      "b28_thoai_1",
+      "b28_thoai_2"
+    ]
+  }
+}
